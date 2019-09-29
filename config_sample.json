@@ -1,0 +1,6 @@
+{
+    "token": "some_token",
+    "prefix": "~",
+    "allowMention": true,
+    "ignoreBots": true
+}
